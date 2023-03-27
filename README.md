@@ -1,7 +1,5 @@
- Hi there 👋, Im Lucas Giorda
+# Hi there 👋, Im Lucas Giorda
 
-<!--
-**giorda78/giorda78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # 💫 About Me:
 🌱 I’m currently learning Javascript, React, Next.js, UI/UX<br><br>💬 Ask me about html, css, scss, javascript, react, next.js<br><br>📫 How to reach me lucasgiorda78@gmail.com<br>
 
